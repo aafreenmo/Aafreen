@@ -1,0 +1,142 @@
+body{
+    margin: 0%;
+    background-color: rgb(255, 245, 232);
+    text-align:center;
+    font-family: 'Playfair Display', serif;
+    
+}
+h1{
+    margin:0%;
+    font-size:50px ;
+}
+
+.first{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 25px;
+    margin-top: 0%;
+}
+
+.bottom-cloud{
+    position:absolute;
+    height: 125px;
+    width:150px;
+    top:100px;
+    left:200px;
+}
+.top-cloud{
+    position:absolute;
+    height: 125px;
+    width:150px;
+    top:1px;
+    right:300px;
+
+}
+.top-container{
+    background-color: lavender;
+    position:relative;
+    padding-top: 100px;
+    height:450px;
+    
+}
+.mountain{
+    position:absolute;
+    right:0;
+    width:500px;
+    bottom:0px;
+}
+.mountain1{
+    position:absolute;
+    left:0;
+    width:500px;
+    bottom:0;
+
+}
+.mountain-middle{
+    position:absolute;
+    bottom:0px;
+    width:460px;
+    right:780px;
+}
+.mountain-middle-2{
+    position:absolute;
+    bottom:0px;
+    width:288px;
+    right:498px;
+    height:285px;
+}
+
+.middle-container{
+
+
+}
+
+.bottom-container{
+
+}
+.snow-fall{
+    position:absolute;
+    left:0;
+    height:400px;
+    top:1px;
+    width:300px;
+}
+.snow-fall-1{
+    position:absolute;
+    right:0;
+    height:400px;
+    top:1px;
+    width:300px;
+}
+.my-pic{
+    width: 250px;
+    position: absolute;
+    left: 180px;
+    padding-top: 100px;
+}
+
+.profile{
+    margin-bottom: 200px;
+    
+}
+.profile-content{
+    padding-top: 60px;
+    border-left-width: 50px;
+    padding-left: 90px;
+    display: inline-block;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+.p{
+
+    font-size: 20px;
+    padding-left: 50px;
+    position: absolute;
+    left: 450px;
+    text-align: left;
+
+}
+hr{
+    
+    border-style: none;
+    height: 4px;
+    width: 5%;
+    border-top: 5px dotted ;
+    border-top-color:rgb(224,224,224);
+}
+p{
+    font-size: 20px;
+
+}
+h2{
+    margin-top: 100px;
+}
+.sports{
+    margin-bottom: 100px;
+}
+.footer-link{
+    color:brown;
+
+}
+.btn{
+    color:brown;
+}
